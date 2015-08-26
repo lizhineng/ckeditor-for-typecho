@@ -1,0 +1,5 @@
+# VIM editor
+*.swp
+
+# OS Generated Files
+.DS_Store
